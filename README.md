@@ -6,6 +6,6 @@ This repository will house all my codes I am using to learn Python language from
 
 Hopefully, at the end of this course, I will be comfortable using Python to write basic scripts and commands to execute some tasks as a cybersecurity professional and automate DevOps tasks. 
 
-Ciao. 
+Bless up. 
 
 
